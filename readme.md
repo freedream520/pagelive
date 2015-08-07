@@ -6,6 +6,8 @@ pagelive会监控你指定的目录文件，如果有文件被修改，它会自
 
 ##安装
 
+安装`requirements.txt`中的依赖
+
 根据以下网址来选择与chrome对应的chromedriver
 
 http://chromedriver.storage.googleapis.com/2.9/notes.txt
